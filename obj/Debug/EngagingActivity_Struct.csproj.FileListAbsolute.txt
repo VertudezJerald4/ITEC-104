@@ -1,0 +1,6 @@
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\EngagingActivity_Struct\EngagingActivity_Struct\obj\Debug\EngagingActivity_Struct.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\EngagingActivity_Struct\EngagingActivity_Struct\bin\Debug\EngagingActivity_Struct.exe.config
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\EngagingActivity_Struct\EngagingActivity_Struct\bin\Debug\EngagingActivity_Struct.exe
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\EngagingActivity_Struct\EngagingActivity_Struct\bin\Debug\EngagingActivity_Struct.pdb
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\EngagingActivity_Struct\EngagingActivity_Struct\obj\Debug\EngagingActivity_Struct.exe
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\EngagingActivity_Struct\EngagingActivity_Struct\obj\Debug\EngagingActivity_Struct.pdb
