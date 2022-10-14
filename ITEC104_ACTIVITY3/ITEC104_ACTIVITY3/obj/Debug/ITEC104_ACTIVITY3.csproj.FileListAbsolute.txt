@@ -1,0 +1,6 @@
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\ITEC104_ACTIVITY3\ITEC104_ACTIVITY3\bin\Debug\ITEC104_ACTIVITY3.exe.config
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\ITEC104_ACTIVITY3\ITEC104_ACTIVITY3\bin\Debug\ITEC104_ACTIVITY3.exe
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\ITEC104_ACTIVITY3\ITEC104_ACTIVITY3\bin\Debug\ITEC104_ACTIVITY3.pdb
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\ITEC104_ACTIVITY3\ITEC104_ACTIVITY3\obj\Debug\ITEC104_ACTIVITY3.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\ITEC104_ACTIVITY3\ITEC104_ACTIVITY3\obj\Debug\ITEC104_ACTIVITY3.exe
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\ITEC104_ACTIVITY3\ITEC104_ACTIVITY3\obj\Debug\ITEC104_ACTIVITY3.pdb
