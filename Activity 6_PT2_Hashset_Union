@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+	
+	
+namespace ITEC_104_VERTUDEZ_ACTIVITY6_PT2
+{
+	class Program
+	{
+		public static void Main(string[] args)
+		{
+			HashSet<int> hash1 = new HashSet<int>();
+			
+			hash1.Add(1);
+			hash1.Add(2);
+			hash1.Add(3);
+			hash1.Add(4);
+			hash1.Add(5);
+			
+			HashSet<int> hash2 = new HashSet<int>();
+			
+			hash2.Add(6);
+			hash2.Add(7);
+			hash2.Add(8);
+			hash2.Add(9);
+			hash2.Add(10);
+			
+			HashSet<int> ans = new HashSet<int>(hash1);
+			
+			ans.UnionWith(hash2);
+			
+			foreach(int x in ans)
+			
+				Console.WriteLine(x);
+				
+			{
+		   
+				
+			}
+			
+		}
+			
+	}
+}
