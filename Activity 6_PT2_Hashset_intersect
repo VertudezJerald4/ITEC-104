@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+  
+class Intersect {
+  
+    
+    public static void Main()
+    {
+  
+       
+        HashSet<int> mySet1 = new HashSet<int>();
+  
+        
+        HashSet<int> mySet2 = new HashSet<int>();
+  
+        
+        Console.WriteLine("Elements in Set 1 :");
+          
+        for (int i = 0; i < 5; i++) {
+            mySet1.Add(i * 2);
+            Console.WriteLine(i * 2);
+        }
+  
+        
+        Console.WriteLine("Elements in Set 2 : ");
+        for (int i = 0; i < 5; i++) {
+            mySet1.Add(i * 2 + 1);
+            Console.WriteLine(i *2 + 1);
+        }
+  
+       
+        HashSet<int> ans = new HashSet<int>(mySet1);
+  
+        ans.IntersectWith(mySet2);
+  
+        
+        foreach(int i in ans)
+        {
+            Console.WriteLine(i);
+        }
+    }
+}
