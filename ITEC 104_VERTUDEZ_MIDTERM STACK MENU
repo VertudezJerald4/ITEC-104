@@ -1,0 +1,64 @@
+using System;
+using System.Collections;
+
+namespace Midtern_Stacks_Part4
+{
+	class Program
+	{
+		public static void Main(string[] args)
+		{
+			Console.WriteLine("1. Add an Element ");
+			Console.WriteLine("2. See the top Element ");
+			Console.WriteLine("3. Remove the top Element ");
+			Console.WriteLine("4. Display stack Elements ");
+			Console.WriteLine("5. Exit ");
+			
+			
+			
+			
+			Console.Write("\n\nSelect your Choice: ");
+			string add = Console.ReadLine();
+			Console.Write("Enter the Element: ");
+			string A = Console.ReadLine();
+			
+			Console.WriteLine("Item pushed successfully!");
+			
+			Console.Write("\n\nSelect your Choice: ");
+			string see = Console.ReadLine();
+			Console.Write("Enter the Element: ");
+			string S = Console.ReadLine();
+			
+			Console.WriteLine("Item pushed successfully!");
+			
+			
+			
+			Console.Write("\n\nSelect your Choice: ");
+			String display = Console.ReadLine();
+			
+			Stack st = new Stack();
+			
+			st.Push(A);
+			st.Push(S);
+			
+			Console.WriteLine("Items: ");
+			foreach (object obj in st){
+				
+				Console.WriteLine(obj);
+			}
+			
+			Console.Write("\n\nSelect your Choice: ");
+			String remove = Console.ReadLine();
+			
+			
+			
+			st.Push(A);
+			
+			Console.WriteLine("Type of stack is removed!");
+			Console.WriteLine("New Top of stack is " + st.Peek());
+			
+			
+			Console.ReadLine();
+			
+			}
+		}
+	}
